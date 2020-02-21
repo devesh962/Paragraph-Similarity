@@ -7,4 +7,4 @@ Using Gensim and TF-IDF.
 
 ***Approach 2***
 
-Using Manhattan LSTM
+Using Manhattan LSTM.
