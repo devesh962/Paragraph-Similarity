@@ -5,6 +5,6 @@ Predicting the degree of similarity between two paragraphs.
 
 Using Gensim and TF-IDF.
 
-***Approach 2****
+***Approach 2***
 
 Using Manhattan LSTM
